@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 2AFF-8722
+
+ Directory of C:\E DRIVE\STUDY\GIT_Folder
+
+08-09-2019  23:25    <DIR>          .
+08-09-2019  23:25    <DIR>          ..
+08-09-2019  23:25                 0 index1.txt
+08-09-2019  23:09               332 test.txt
+               2 File(s)            332 bytes
+               2 Dir(s)  126,378,426,368 bytes free
